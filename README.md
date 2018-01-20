@@ -1,2 +1,2 @@
 # netscripts
-Version controlled scripts for network configuration for practice
+Version controlled scripts to configure array of networks as a practice
